@@ -1,0 +1,14 @@
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\bin\Debug\net7.0\CaesarSkiffer.exe
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\bin\Debug\net7.0\CaesarSkiffer.deps.json
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\bin\Debug\net7.0\CaesarSkiffer.runtimeconfig.json
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\bin\Debug\net7.0\CaesarSkiffer.dll
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\bin\Debug\net7.0\CaesarSkiffer.pdb
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.AssemblyInfoInputs.cache
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.AssemblyInfo.cs
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.csproj.CoreCompileInputs.cache
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.dll
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\refint\CaesarSkiffer.dll
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.pdb
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\CaesarSkiffer.genruntimeconfig.cache
+C:\Users\riste\source\repos\CaesarSkiffer\CaesarSkiffer\obj\Debug\net7.0\ref\CaesarSkiffer.dll
